@@ -1,0 +1,12 @@
+.highlight{
+    font-weight: bold;
+    color:green;
+}
+.resultTextPositive{
+    font-weight: bold;
+    color:blue;
+}
+.resultTextNegative{
+    font-weight: bold;
+    color:red;
+}
